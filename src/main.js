@@ -8,7 +8,6 @@ Vue.filter('dollar', dollarFilter)
 Vue.filter('percent', percentFilter)
 Vue.config.productionTip = false
 
-
 new Vue({
   router,
   render: h => h(App),
