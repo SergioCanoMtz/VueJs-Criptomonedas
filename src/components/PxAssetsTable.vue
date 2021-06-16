@@ -26,7 +26,7 @@
           />
         </td>
         <td>
-          <b># {{ a.rank }}</b>
+          <b>#{{ a.rank }}</b>
         </td>
         <td>{{ a.name  }}</td>
         <td>{{ a.priceUsd | dollar }}</td>
