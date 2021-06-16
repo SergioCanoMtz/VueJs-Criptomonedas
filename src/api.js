@@ -6,4 +6,5 @@ function getAssets(){
 
 export default {
     getAssets
+    
 }
